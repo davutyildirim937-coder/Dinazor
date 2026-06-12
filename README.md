@@ -1,0 +1,2 @@
+# Dinazor
+Dinazor oyunu
